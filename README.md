@@ -62,44 +62,41 @@ DATA
  
 DATA HEAD
 
-![](./2.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/2.JPG)
 
 DATA INFORMATION
 
-![](./3.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/3.JPG)
 
 DATA DESCRIBE
 
-![](./4.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/4.JPG)
 
 DATA NULL VALUES
 
-![](./5.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/5.JPG)
 
 DATA'S DATATYPES
 
-![](./6.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/6.JPG)
 
 DATA'S VALUECOUNT
 
-![](./7.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/7.JPG)
 
 BOXPLOT
 
-![](./8.png)
-
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/8.JPG)
 COUNTPLOT
 
-![](./9.png)
-
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/9.JPG)
 DISTRIBUTION PLOT
 
-![](./10.png)
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/10.JPG)
 
 HISTOGRAM PLOT
 
-![](./11.png)
-
+![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/11.JPG)
 # Result
 Thus we have read the given data and performed the univariate analysis with different types of plots.
 
