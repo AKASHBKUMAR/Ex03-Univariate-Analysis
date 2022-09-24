@@ -58,7 +58,7 @@ sns.histplot(x='Postal Code',data=df)
 
 DATA
 
-![](./1.png)
+![](./1.jpeg)
  
 DATA HEAD
 
