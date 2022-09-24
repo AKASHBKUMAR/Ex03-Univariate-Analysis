@@ -87,6 +87,7 @@ DATA'S VALUECOUNT
 BOXPLOT
 
 ![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/8.JPG)
+
 COUNTPLOT
 
 ![](https://github.com/AKASHBKUMAR/Ex03-Univariate-Analysis/blob/main/9.JPG)
